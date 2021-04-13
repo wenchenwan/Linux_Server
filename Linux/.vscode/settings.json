@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "types.h": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "cstdlib": "c",
+        "future": "c",
+        "array": "c",
+        "*.tcc": "c",
+        "deque": "c",
+        "string": "c",
+        "vector": "c",
+        "optional": "c",
+        "string_view": "c",
+        "algorithm": "c",
+        "istream": "c",
+        "limits": "c",
+        "numeric": "c",
+        "streambuf": "c",
+        "functional": "c",
+        "CORE.C": "cpp"
+    }
+}
